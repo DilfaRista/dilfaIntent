@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/text1242"
+        android:id="@+id/dilfa"
         android:textColor="@color/black"
         android:textSize="150px"
         app:layout_constraintBottom_toTopOf="@+id/buttono1"
